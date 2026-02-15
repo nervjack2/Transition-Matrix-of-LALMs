@@ -6,7 +6,7 @@ This page presents the visualization of transition matrices for different Large 
 
 ## 1. Model: Qwen2.5-Omni
 
-### 1.1. Method: Attention Awareness Decoding (AAD)
+### 1.1. Method: Audio-Aware Decoding (AAD)
 
 **Sakura: Animal**
 ![Qwen AAD Animal](figures/qwen_aad_sakura_animal-r-ja-pr_4x5.png)
@@ -26,7 +26,7 @@ This page presents the visualization of transition matrices for different Large 
 **MMAR**
 ![Qwen AAD MMAR](figures/qwen_aad_mmar-r-ja-pr_4x5.png)
 
-### 1.2. Method: Adaptive Contrastive Decoding (ACD)
+### 1.2. Method: Audio Contrastive Decoding (ACD)
 
 **Sakura: Animal**
 ![Qwen ACD Animal](figures/qwen_acd_sakura_animal-r-ja-pr_4x5.png)
@@ -50,7 +50,7 @@ This page presents the visualization of transition matrices for different Large 
 
 ## 2. Model: DeSTA2.5-Audio
 
-### 2.1. Method: Attention Awareness Decoding (AAD)
+### 2.1. Method: Audio-Aware Decoding (AAD)
 
 **Sakura: Animal**
 ![DeSTA AAD Animal](figures/desta_aad_sakura_animal-r-ja-pr_4x5.png)
@@ -70,7 +70,7 @@ This page presents the visualization of transition matrices for different Large 
 **MMAR**
 ![DeSTA AAD MMAR](figures/desta_aad_mmar-r-ja-pr_4x5.png)
 
-### 2.2. Method: Adaptive Contrastive Decoding (ACD)
+### 2.2. Method: Audio Contrastive Decoding (ACD)
 
 **Sakura: Animal**
 ![DeSTA ACD Animal](figures/desta_acd_sakura_animal-r-ja-pr_4x5.png)
@@ -94,7 +94,7 @@ This page presents the visualization of transition matrices for different Large 
 
 ## 3. Model: Audio Flamingo 3
 
-### 3.1. Method: Attention Awareness Decoding (AAD)
+### 3.1. Method: Audio-Aware Decoding (AAD)
 
 **Sakura: Animal**
 ![AF3 AAD Animal](figures/af3_aad_sakura_animal-r-ja-pr_4x5.png)
@@ -114,7 +114,7 @@ This page presents the visualization of transition matrices for different Large 
 **MMAR**
 ![AF3 AAD MMAR](figures/af3_aad_mmar-r-ja-pr_4x5.png)
 
-### 3.2. Method: Adaptive Contrastive Decoding (ACD)
+### 3.2. Method: Audio Contrastive Decoding (ACD)
 
 **Sakura: Animal**
 ![AF3 ACD Animal](figures/af3_acd_sakura_animal-r-ja-pr_4x5.png)
