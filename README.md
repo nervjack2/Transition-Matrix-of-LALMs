@@ -1,4 +1,4 @@
-# Experimental Results
+# Transition Matrices
 
 This page presents the visualization of transition matrices for different Large Audio Language Models (LALMs) using Attention Awareness Decoding (AAD) and Adaptive Contrastive Decoding (ACD).
 
