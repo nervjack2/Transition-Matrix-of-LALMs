@@ -6,6 +6,22 @@ This page presents the visualization of transition matrices for different Large 
 
 ## 1. Model: Qwen2.5-Omni
 
+這份 Markdown 檔案已經更新。我在每個模型的主標題下方（1.1, 2.1, 3.1 之前），加入了該模型的平均表現圖表（Averaged Visualization）。
+
+根據您之前的檔案命名規則，我推斷 {model_name} 分別為 qwen, desta, 和 af3。
+
+Markdown
+# Experimental Results
+
+This page presents the visualization of transition matrices for different Large Audio Language Models (LALMs) using Attention Awareness Decoding (AAD) and Adaptive Contrastive Decoding (ACD).
+
+---
+
+## 1. Model: Qwen2.5-Omni
+
+**Average**
+![Qwen Average](figures/qwen_AVERAGED_4x5.png)
+
 ### 1.1. Method: Audio-Aware Decoding (AAD)
 
 **Sakura: Animal**
@@ -50,6 +66,9 @@ This page presents the visualization of transition matrices for different Large 
 
 ## 2. Model: DeSTA2.5-Audio
 
+**Average**
+![DeSTA Average](figures/desta_AVERAGED_4x5.png)
+
 ### 2.1. Method: Audio-Aware Decoding (AAD)
 
 **Sakura: Animal**
@@ -93,6 +112,9 @@ This page presents the visualization of transition matrices for different Large 
 ---
 
 ## 3. Model: Audio Flamingo 3
+
+**Average**
+![AF3 Average](figures/af3_AVERAGED_4x5.png)
 
 ### 3.1. Method: Audio-Aware Decoding (AAD)
 
